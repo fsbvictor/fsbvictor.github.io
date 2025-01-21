@@ -1,0 +1,124 @@
+/*-------------------    INICIO     MENU          -------------------------------------------------------------------------------*/
+
+#menu  a:focus {
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+
+#menu  a:active {
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/*--------------------     FIM    MENU          -----------------------------------------------------------------------------*/
+
+
+/*-------------------      INICIO   BIOGRAFIA          -------------------------------------------------------------------------------*/
+
+.biografia{
+    padding-top: 60px;
+}
+
+.fotoBio{
+    max-height:500px;
+    margin: auto;
+    display: block;
+}
+.textoBio{
+    padding-top: 25px;
+}
+/*--------------------    FIM     BIOGRAFIA          -----------------------------------------------------------------------------*/
+
+
+/*---------------------    INICIO     descricao          -----------------------------------------------------------------------------*/
+
+.descricao{
+    padding: 50px 0px;
+}
+/*----------------------     FIM    descricao          ----------------------------------------------------------------------------*/
+
+
+/*-----------------------     INICIO    interesses          --------------------------------------------------------*/
+
+.interesses{
+    padding: 50px 0px;
+}
+.carousel-item{
+    border-radius: 100px;
+    
+}
+.carousel-item img{
+    border-radius: 100px;
+    background-color: #2B3035;
+}
+.fotosCa img{
+    height: 500px;
+}
+
+.carrocelIcone:focus{
+}
+    
+/*----------------------     FIM    interesses          ----------------------------------------------------------------------------*/
+
+
+
+
+/*----------------------     INICIO    videos          ----------------------------------------------------------------------------*/
+.videos{
+}
+
+/*-----------------------     FIM    videos          --------------------------------------------------------*/
+
+
+/*-----------------------     INICIO    jogos          --------------------------------------------------------*/
+
+.jogos{
+    padding: 0px 40px;
+}
+.trailerJogo{
+    margin: auto;
+    display: block;
+    width: 70%;
+}
+
+
+/*
+.carta:hover{
+    position: relative;
+}
+
+.divCarta:focus{
+    object-fit: scale-down;
+    position: relative;
+    z-index: 10; /* Eleva o card para o topo 
+    
+    background-color: aquamarine;
+    transform: translateY(10px);
+    transform: translateX(50%);
+    padding: 10px;
+    background-color: rgb(48, 35, 35);
+    border-radius: 5px;
+    
+}
+
+.imagemCard{
+    max-width: 100%;
+}
+*/
+/*-----------------------     FIM    jogos          --------------------------------------------------------*/
+
+/*-----------------------     INICIO    RODAPE          --------------------------------------------------------*/
+
+footer ul li p{
+    margin: auto;
+}
+footer a:focus{
+    font-weight: bold;
+}
+.direitos{
+    margin: 30px 0px;
+}
+
+
+/*-----------------------     FIM    RODAPE          --------------------------------------------------------*/
